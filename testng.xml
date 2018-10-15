@@ -1,0 +1,7 @@
+<suite name="successivetesttestng">
+	<test name="testngTest">
+		<classes>
+			<class name="pkgTest.RSVPSignUp" />
+		</classes>
+	</test>
+</suite>
